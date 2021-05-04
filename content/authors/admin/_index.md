@@ -2,7 +2,7 @@
 title: Bilal Bari, MD, PhD
 role: Psychiatry Resident
 avatar_filename: avatar.jpg
-bio: "My research interests include ###"
+bio: ""
 interests:
   - Computational Psychiatry
   - Learning
