@@ -2,12 +2,9 @@
 title: Bilal Bari, MD, PhD
 role: Psychiatry Resident
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: "My research interests include ###"
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Test
 social:
   - icon: envelope
     icon_pack: fas
