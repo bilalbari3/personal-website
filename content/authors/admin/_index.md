@@ -15,6 +15,8 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/bari_bilal
+    display:
+      header: true
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=MzN1olEAAAAJ&hl=en
