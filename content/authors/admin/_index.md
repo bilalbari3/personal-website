@@ -21,8 +21,9 @@ social:
     icon_pack: fas
     link: https://scholar.google.com/citations?user=MzN1olEAAAAJ&hl=en
 organizations:
-  - name: Massachusetts General Hospital, McLean Hospital
-    url: https://mghmcleanpsychiatry.partners.org/
+  - name: Massachusetts General Hospital
+    url: ""
+  - name: McLean Hospital
 education:
   courses:
     - course: PhD in Artificial Intelligence
