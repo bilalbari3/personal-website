@@ -21,9 +21,8 @@ social:
     icon_pack: fas
     link: https://scholar.google.com/citations?user=MzN1olEAAAAJ&hl=en
 organizations:
-  - name: Massachusetts General Hospital
+  - name: MGH, McLean Hospital
     url: ""
-  - name: McLean Hospital
 education:
   courses:
     - course: MD
