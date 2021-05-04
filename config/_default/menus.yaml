@@ -16,6 +16,9 @@ main:
 #  - name: Talks
 #    url: '#talks'
 #    weight: 40
+  - name: Preprints
+    url: '#preprints'
+    weight: 30
   - name: Publications
     url: '#publications'
     weight: 50
