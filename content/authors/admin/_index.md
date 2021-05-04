@@ -1,5 +1,5 @@
 ---
-title: Bilal Abdul Bari, MD, PhD
+title: Bilal Bari, MD, PhD
 role: Psychiatry Resident
 avatar_filename: avatar.jpg
 bio: ""
