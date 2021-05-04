@@ -1,6 +1,6 @@
 ---
 title: Bilal Bari, MD, PhD
-role: Psychiatry Resident at MGH/McLean
+role: Psychiatry Resident
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
