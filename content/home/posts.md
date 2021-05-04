@@ -2,7 +2,7 @@
 widget: pages
 widget_id: updates
 headless: true
-weight: 60
+weight: 10
 title: Updates
 subtitle: null
 content:
