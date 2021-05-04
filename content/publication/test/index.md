@@ -1,5 +1,5 @@
 ---
-title: Test
+title2: Test
 publication_types:
   - "0"
 abstract: This is an abstract
