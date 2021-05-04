@@ -14,16 +14,10 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/bari_bilal
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://scholar.google.com/citations?user=MzN1olEAAAAJ&hl=en
 organizations:
   - name: Massachusetts General Hospital, McLean Hospital
     url: https://mghmcleanpsychiatry.partners.org/
