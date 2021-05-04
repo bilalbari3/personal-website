@@ -1,5 +1,5 @@
 ---
-title2: Test
+title: Test
 publication_types:
   - "0"
 abstract: This is an abstract
@@ -12,4 +12,3 @@ image:
 summary: This is a shortened abstract
 date: 2021-05-04T16:37:51.814Z
 ---
-These are details
