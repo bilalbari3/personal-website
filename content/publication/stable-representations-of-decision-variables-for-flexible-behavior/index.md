@@ -27,7 +27,7 @@ abstract: Decisions occur in dynamic environments. In the framework of
   motor cortex, a region necessary for generating choices. Thus, we define a
   stable neural mechanism to drive flexible behavior.
 draft: false
-featured: false
+featured: true
 image:
   filename: figure8.png
   focal_point: Center
