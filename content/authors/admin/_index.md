@@ -26,15 +26,15 @@ organizations:
   - name: McLean Hospital
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MD
+      institution: Johns Hopkins University School of Medicine
+      year: 2021
+    - course: PhD in Neuroscience
+      institution: Johns Hopkins University School of Medicine
+      year: 2021
+    - course: BS in Biomedical Engineering
+      institution: Georgia Institute of Technology
+      year: 2011
 email: ""
 superuser: true
 highlight_name: false
