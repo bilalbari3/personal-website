@@ -4,7 +4,9 @@ role: Psychiatry Resident
 avatar_filename: avatar.jpg
 bio: "My research interests include ###"
 interests:
-  - Test
+  - Computational Psychiatry
+  - Cognition
+  - Artificial Intelligence
 social:
   - icon: envelope
     icon_pack: fas
