@@ -5,7 +5,7 @@
 
 title: Bilal Bari # Website name
 baseurl: 'https://bilalbari.netlify.app/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: All content © Bilal Bari # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
