@@ -37,4 +37,4 @@ highlight_name: false
 ---
 I am currently a psychiatry resident in the MGH/McLean Adult Psychiatry Residency Program. I have strong research interests in computational psychiatry, particularly at the interface of cognitive science and psychiatry. 
 
-I completed my PhD with Jeremiah Cohen where I
+I completed my PhD with Jeremiah Cohen where I characterized the neural circuitry and representations underlying flexible decision making.
