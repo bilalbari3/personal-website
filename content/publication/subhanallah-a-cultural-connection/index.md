@@ -3,7 +3,7 @@ title: "Subhanallah: A Cultural Connection"
 publication_types:
   - "2"
 authors:
-  - Bilal A. Bari
+  - Bilal A Bari
 doi: 10.1097/ACM.0000000000003240
 publication: Academic Medicine
 draft: false
