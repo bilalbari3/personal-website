@@ -35,3 +35,10 @@ email: ""
 superuser: true
 highlight_name: false
 ---
+I am currently a psychiatry resident in the MGH/McLean Adult Psychiatry Residency Program. 
+
+Research at the interface of cognitive science and psychiatry
+
+
+
+I completed my PhD with Jeremiah Cohen where I
