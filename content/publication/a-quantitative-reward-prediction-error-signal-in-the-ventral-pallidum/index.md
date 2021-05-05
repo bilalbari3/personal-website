@@ -29,6 +29,10 @@ abstract: The nervous system is hypothesized to compute reward prediction errors
   signals that influence adaptive reward seeking.
 draft: false
 featured: false
+links:
+  - name: Custom Link
+  url: http://example.org
+url_pdf: http://arxiv.org/pdf/1512.04133v1
 image:
   filename: ""
   focal_point: ""
