@@ -4,9 +4,9 @@ title: Locus coeruleus spiking differently correlates with S1 cortex activity
 subtitle: ""
 publication_types:
   - "2"
-authors:
+authors: 
   - Hongdian Yang
-  - "**Bilal A Bari**"
+  - Bilal A Bari
   - Jeremiah Y Cohen
   - Daniel H O'Connor
 doi: 10.7554/eLife.64327
