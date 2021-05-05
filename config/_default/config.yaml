@@ -4,7 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Bilal Bari # Website name
-baseurl: 'https://bilalbari.netlify.app/' # Website URL
+baseurl: 'https://bilalbari.com/' # Website URL
+#baseurl: 'https://bilalbari.netlify.app/' # Website URL
 copyright: All content © Bilal Bari # Footer text, e.g. '© {year} Me'
 
 ############################
