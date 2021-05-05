@@ -4,9 +4,9 @@ title: "Locus coeruleus-norepinephrine: basic functions and insights into
 publication_types:
   - "2"
 authors:
-  - Bilal A. Bari*
-  - Varun Chokshi*
-  - Katharina Schmidt*
+  - Bilal A. Bari (co-first)
+  - Varun Chokshi (co-first)
+  - Katharina Schmidt (co-first)
 author_notes: []
 doi: 10.4103/1673-5374.270297
 publication: Neural Regeneration Research
