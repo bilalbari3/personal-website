@@ -17,6 +17,11 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=MzN1olEAAAAJ&hl=en
+  - display:
+      header: false
+    link: https://www.linkedin.com/in/bilal-bari-858bb422/
+    icon_pack: fab
+    icon: linkedin
 organizations:
   - name: MGH, McLean Hospital
     url: ""
