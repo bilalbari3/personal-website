@@ -5,14 +5,10 @@ avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Computational Psychiatry
-  - Learning
-  - Memory
+  - Reinforcement Learning
   - Decision Making
   - Artificial Intelligence
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/bari_bilal
