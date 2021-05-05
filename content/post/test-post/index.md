@@ -1,6 +1,6 @@
 ---
-title: Starting psychiatry residency
-subtitle: MGH/McLean Hospital
+title: Beginning psychiatry residency at MGH/McLean Hospital
+subtitle: ""
 date: 2021-05-04T21:13:11.806Z
 draft: false
 featured: false
