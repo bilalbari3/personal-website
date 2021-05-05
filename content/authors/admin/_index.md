@@ -44,4 +44,4 @@ I am a psychiatry resident at MGH/McLean Hospital. I am passionate about underst
 
 I received my BS in Biomedical Engineering from Georgia Tech where I worked with [Garrett Stanley](https://stanley.gatech.edu/). I completed my MD/PhD at Johns Hopkins and pursued a PhD with [Jeremiah Cohen](https://cohenlab.johnshopkins.edu/). I characterized the neural circuitry (particularly cortico-basal-ganglia circuits) underlying flexible decision making. I collaborated with [Patricia Janak'](http://www.janaklab.com/)s lab to better characterize the role of basal ganglia circuits in motivated behavior. 
 
-Outside of my core research focus, I am interested in causal inference, statistical modeling, motor control, and medical decision making.
+Outside of my core research focus, I am interested in causal inference, statistical modeling (I am an unapologetic Bayesian), motor control, and medical decision making.
