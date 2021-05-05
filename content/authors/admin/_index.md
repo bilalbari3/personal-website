@@ -40,7 +40,7 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am a psychiatry resident in the MGH/McLean Adult Psychiatry Residency Program. I am passionate about understanding what makes us intelligent and how these processes go awry in mental illness. I am broadly interested in computational psychiatry, particularly at the interface of cognitive science and psychiatry. I hope to use a theoretically-motivated perspective to better understand, diagnose, prognosticate, predict therapeutic response, and develop new treatments for mental illness.
+I am a psychiatry resident at MGH/McLean Hospital. I am passionate about understanding what makes us intelligent and how these processes go awry in mental illness. I am broadly interested in computational psychiatry, particularly at the interface of cognitive science and psychiatry. I hope to develop computational theories of intelligence to better understand, diagnose, prognosticate, predict therapeutic response, and develop new treatments for mental illness.
 
 I received my BS in Biomedical Engineering from Georgia Tech where I worked with [Garrett Stanley](https://stanley.gatech.edu/). I completed my MD/PhD at Johns Hopkins and pursued a PhD with [Jeremiah Cohen](https://cohenlab.johnshopkins.edu/). I characterized the neural circuitry (particularly cortico-basal-ganglia circuits) underlying flexible decision making. I collaborated with [Patricia Janak'](http://www.janaklab.com/)s lab to better characterize the role of basal ganglia circuits in motivated behavior. 
 
