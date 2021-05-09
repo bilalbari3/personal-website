@@ -1,6 +1,6 @@
 ---
 title: Bilal Bari, MD, PhD
-role: Psychiatry Resident
+role: Psychiatry Resident; Aspiring Physician-Scientist
 avatar_filename: avatar.jpg
 bio: ""
 interests:
