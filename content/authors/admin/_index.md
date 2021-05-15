@@ -25,6 +25,7 @@ social:
 organizations:
   - name: MGH, McLean Hospital
     url: ""
+  - name: Harvard Medical School
 education:
   courses:
     - course: MD
