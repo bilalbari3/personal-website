@@ -23,7 +23,7 @@ social:
     icon_pack: fab
     icon: linkedin
 organizations:
-  - name: MGH, McLean Hospital
+  - name: MGH, McLean Hospital <span style="color:red">some *red* text</span>
     url: ""
   - name: Harvard Medical School
     url: ""
