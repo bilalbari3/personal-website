@@ -24,8 +24,9 @@ social:
     icon: linkedin
 organizations:
   - name: MGH, McLean Hospital
-    url: ""
+    url: https://mghmcleanpsychiatry.partners.org/program/
   - name: Harvard Medical School
+    url: https://hms.harvard.edu/
 education:
   courses:
     - course: MD
