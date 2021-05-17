@@ -23,10 +23,10 @@ social:
     icon_pack: fab
     icon: linkedin
 organizations:
-  - name: MGH, McLean Hospital <span style="color:red">some *red* text</span>
-    url: ""
+  - name: MGH, McLean Hospital
+    url: https://mghmcleanpsychiatry.partners.org/program/
   - name: Harvard Medical School
-    url: ""
+    url: https://hms.harvard.edu/
 education:
   courses:
     - course: MD
