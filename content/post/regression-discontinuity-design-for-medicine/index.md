@@ -1,7 +1,7 @@
 ---
 title: Regression discontinuity design for medicine
 date: 2021-06-13T14:55:13.693Z
-draft: false
+draft: true
 featured: false
 image:
   filename: featured
