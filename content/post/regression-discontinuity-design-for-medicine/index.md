@@ -40,7 +40,7 @@ More importantly, attending an elite college causes a *tremendous* salary increa
 
 <img src="rdd_india_2.png" width="500"/>
 
-Another fascinating example studies taxicab economics: what is the causal effect of dollar-based vs percent-based tip suggestion?<sup>6</sup>. In this study, if the fare was under $15 (the threshold), tip suggestions were $2, $3, or $4. Above this threshold, tip suggestions were 20%, 25%, or 30% of the fare. Below, we observe a discontinuity at the threshold, demonstrating the causal effect of the tip suggestion style (legend: c is the threshold, c* is the optimal threshold, LLR is local linear regression, IK is the Imbens-Kalyanaraman bandwidth used to determine how much data to include in the regression).
+Another fascinating example studies taxicab economics: how does the manner of tip suggestion (dollar-based vs percent-based) affect tipping?<sup>6</sup>. In this study, if the fare was under $15 (the threshold), tip suggestions were $2, $3, or $4. Above this threshold, tip suggestions were 20%, 25%, or 30% of the fare. Below, we observe a discontinuity at the threshold, demonstrating the causal effect of the tip suggestion style (legend: c is the threshold, c* is the optimal threshold, LLR is local linear regression, IK is the Imbens-Kalyanaraman bandwidth used to determine how much data to include in the regression).
 
 <img src="marinescu_fig3.png" width="500"/>
 
