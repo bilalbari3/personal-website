@@ -20,15 +20,13 @@ To determine whether contrast exposure causes kidney injury, Goulden et al took 
 
 <img src="Goulden_Fig1A.png" width="500"/>
 
-However, they couldn't just compare the kidney functions of those who received contrast and those who did not, since individuals who received contrast were clearly different from those who didn't. For example, their elevated D-dimer levels may have been due to poor general health, which would contribute to poorer kidney function independent of contrast. The key insight is to recognize that individuals arbitrary close to the threshold from either side are essentially identical, since their exact D-dimer levels will be due to randomness in the blood draw, lab test, and a number of other factors. Regression discontinuity design is therefore to fit the outcome (kidney function) to *two separate* regressions, on one each side of the D-dimer threshold: if there is a discontinuity at the threshold, then there is a causal effect. Goulden and colleagues carried out this exact analysis and, in what should be a fatal blow to contrast-associated nephropathy, failed to find any such discontinuity (or, in the baroque and overburdened language of frequentism, they failed to reject the null - I'm sure I'll write a blog post laying bare my consternations of frequentism at some point).
+However, they couldn't just compare the kidney functions of those who received contrast and those who did not, since individuals who received contrast were clearly different from those who didn't. For example, their elevated D-dimer levels may have been due to poor general health, which would contribute to poorer kidney function independent of contrast. The key insight is to recognize that individuals arbitrary close to the threshold from either side are essentially identical, since their exact D-dimer levels will be due to randomness in the blood draw, lab test, and a number of other factors. Regression discontinuity design is therefore to fit the outcome (kidney function) to *two separate* regressions, on one each side of the D-dimer threshold: if there is a discontinuity at the threshold, then there is a causal effect. Goulden and colleagues carried out this exact analysis and, in what should be a fatal blow to contrast-associated nephropathy, failed to find any such discontinuity (or, in the baroque and overburdened language of frequentism, they failed to reject the null - I'm sure I'll write a blog post laying bare my consternations of frequentism at some point). Long-term eGFR below is a measure of kidney function. 
 
 <img src="goulden_fig2a.png" width="500"/>
 
+In order for regression discontinuity design to work, subjects and physicians should not be able to control the treatments (for example, subjects somehow elevating their D-dimer levels or physicians deciding to carry out a contrast study despite a low D-dimer). There is some flexibility, as the technique of 'fuzzy' regression discontinuity design can handle some imperfections (in fact, Goulden et al used this technique rather than vanilla regression discontinuity design). 
 
-
-Fuzzy regression discontinuity design, used when the threshold isn't exact. Long-term eGFR 
-
-Those of us in healthcare recognize that medicine is teeming with arbitrarily-chosen thresholds which serve as treatment boundaries. 
+Those of us in healthcare recognize that medicine is teeming with arbitrarily-chosen thresholds which serve as treatment boundaries. Regression discontinuity design is extremely well-suited for medicine, and ought to mark a new era of evidence-based medicine. It has been used to some extent in medicine, although, as Konrad Kording recently [Tweeted](https://twitter.com/KordingLab/status/1301136756159533056), "data ownership in medicine is \*ugly\*."
 
 Sekhri, Sheetal. "Prestige matters: Wage premium and value addition in elite colleges." American Economic Journal: Applied Economics 12.3 (2020): 207-25.
 
@@ -52,3 +50,4 @@ Lansdell, Benjamin James, and Konrad Paul Kording. "Neural spiking for causal in
 2. Goulden, Robert, et al. "Association of Intravenous Radiocontrast With Kidney Function: A Regression Discontinuity Analysis." JAMA Internal Medicine (2021).
 3. Marinescu, Ioana E., Patrick N. Lawlor, and Konrad P. Kording. "Quasi-experimental causality in neuroscience and behavioural research." Nature human behaviour 2.12 (2018): 891-898.
 4. American College of Radiology Appropriateness Criteria. Suspected Pulmonary Embolism: Variant 2. <https://acsearch.acr.org/docs/69404/Narrative/>
+5. Naidech, Andrew M., et al. "Probing the Effective Treatment Thresholds for Alteplase in Acute Ischemic Stroke With Regression Discontinuity Designs." Frontiers in neurology 11 (2020): 961.
