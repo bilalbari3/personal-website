@@ -14,7 +14,7 @@ The gold standard for causal inference in medicine is the randomized control tri
 
 ![](pasted-image-0.png)
 
-<img src="pasted-image-0.png" alt="drawing" width="200"/>
+<img src="pasted-image-0.png" alt="drawing" width="350"/>
 
 Img above
 
