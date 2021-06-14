@@ -24,7 +24,7 @@ However, they couldn't just compare the kidney functions of those who received c
 
 <img src="goulden_fig2a.png" width="500"/>
 
-In order for RDD to work, subjects and physicians should not be able to control the treatments (for example, subjects somehow elevating their D-dimer levels or physicians deciding to carry out a contrast study despite a low D-dimer). There is some flexibility, as the technique of 'fuzzy' RDD can handle some imperfections (in fact, Goulden et al used this technique rather than vanilla RDD). 
+In order for RDD to work, subjects and physicians should not be able to control the treatments (for example, subjects somehow elevating their D-dimer levels or physicians deciding to carry out a contrast study despite a low D-dimer). There is some flexibility, as the technique of 'fuzzy' RDD can handle some imperfections (in fact, Goulden et al used fuzzy RDD rather than vanilla RDD). 
 
 Those of us in healthcare recognize that medicine is teeming with arbitrarily-chosen thresholds which serve as treatment boundaries. RDD is extremely well-suited for medicine, and ought to mark a new era of evidence-based medicine. I love this particular study because, after I learned about RDD, I championed its promise to anyone who would listen, and even spoke of contrast-associated nephropathy as a clinically-important and low-hanging target. Although my suggestions fell on deaf ears (nobody said being a medical student is fun; plus, good ideas are rarely accepted outright), I am ecstatic Goulden et al delivered an answer. RDD has been used to some extent in medicine, although, as Konrad Kording recently [Tweeted](https://twitter.com/KordingLab/status/1301136756159533056), "data ownership in medicine is \*ugly\*."
 
