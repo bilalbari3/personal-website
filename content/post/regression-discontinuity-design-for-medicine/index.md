@@ -30,7 +30,7 @@ Those of us in healthcare recognize that medicine is teeming with arbitrarily-ch
 
 Because RDD is a general statistical technique, it has seen success in a wide variety of domains. One of my favorites asks whether attending an elite university increases postgraduate salaries<sup>5</sup> (I was originally made aware of this study by this [Tweet](https://twitter.com/JustinSandefur/status/1295416857919459330)). In India, the Senior Secondary School Exam is a standardized test that determines what college students attend. With high scores, they are accepted into public colleges (prestigious) or private colleges (less prestigious). As with our medical example above, we can't just compare the two groups of students, as those with scores above the threshold are quite different from those below the threshold. First, we see that scoring above an arbitrary threshold does result in greater attendance of public colleges.
 
-<img src="sekhri_fig1.png" widt="300"/>
+<img src="sekhri_fig1.png" width="500"/>
 
 Interestingly, going to an elite college does not confer a benefit in terms of college exit test scores (to be interpreted as a metric of the quality of education, though the veracity of this claim is tenuous).
 
