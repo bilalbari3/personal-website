@@ -48,7 +48,9 @@ Even more fascinating is the implication. This threshold can be optimized, since
 
 There are even more creative applications of RDD. A recent study argued that individual neurons might employ a form of this technique to estimate their causal effect on behavior<sup>7</sup>. It remains to be seen whether the predictions of this theory are true, but it is wonderful to see such unbridled creativity directed at solving important problems.
 
-As with any technique, the conclusions are only as good as the assumptions. [This talk](https://youtu.be/fc1hkFC2c1E?t=731) from Andrew Gelman provides a humorous, if horrifying example of when RDD goes wrong.
+As with any technique, the conclusions are only as good as the assumptions. [This talk](https://youtu.be/fc1hkFC2c1E?t=731) from Andrew Gelman provides a humorous, if horrifying example of when RDD goes wrong. I recommend watching the video and listening to his reasoning, highlighting the importance of domain-specific expertise (and sometimes a bit of common sense).
+
+<img src="chenEtAl_fig3.png" width="500"/>
 
 
 
@@ -61,6 +63,7 @@ Published References
 5. Sekhri, Sheetal. "Prestige matters: Wage premium and value addition in elite colleges." American Economic Journal: Applied Economics 12.3 (2020): 207-25.
 6. Marinescu, Ioana Elena, Sofia Triantafillou, and Konrad Kording. "Regression discontinuity threshold optimization." Available at SSRN 3333334 (2019).
 7. Lansdell, Benjamin James, and Konrad Paul Kording. "Neural spiking for causal inference." bioRxiv (2019): 253351.
+8. Chen, Yuyu, et al. "Evidence on the impact of sustained exposure to air pollution on life expectancy from China’s Huai River policy." Proceedings of the National Academy of Sciences 110.32 (2013): 12936-12941.
 
 Links
 
