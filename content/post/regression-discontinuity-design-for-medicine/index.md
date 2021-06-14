@@ -16,13 +16,13 @@ The gold standard for causal inference in medicine is the randomized control tri
 
 Regression discontinuity design is a 'quasi-experimental' technique - that is, it aims to establish causality without random assignment. I was first introduced to this and other quasi-experimental methods via a wonderful primer by Ioana Marinescu, Patrick Lawlor, and Konrad Kording<sup>3</sup>. As we will see below, the name is crystal clear: by identifying discontinuities in regressions, we can identify causal effects. Regression discontinuity design can be used when a continuous variable is arbitrary thresholded for intervention. 
 
-To determine whether contrast exposure causes kidney injury, Goulden et al took advantage of a fortuitous protocol used in the Alberta hospital system. Patients with a D-dimer level above a cutoff, potentially indicative of a blood clot, were likely to receive a CT pulmonary angiogram (read, CT with contrast), a imaging study to more definitively diagnose blood clots in the vessels of the lungs<sup>4</sup>. The figure below shows this was indeed the case.
+To determine whether contrast exposure causes kidney injury, Goulden et al took advantage of a fortuitous protocol used in the Alberta hospital system. Patients with a D-dimer level above a cutoff, potentially indicative of a blood clot, were likely to receive a CT pulmonary angiogram (read, CT with contrast), a imaging study to more definitively diagnose blood clots in the vessels of the lungs<sup>4</sup>. The figure below shows this protocol was carried out appropriately.
 
 <img src="Goulden_Fig1A.png" width="500"/>
 
+However, they couldn't just compare the kidney functions of those who received contrast and those who did not, since individuals who received contrast were clearly different from those who didn't. For example, their elevated D-dimer levels may have been due to poor general health, which would contribute to poorer kidney function independent of contrast. The key insight is to recognize that individuals arbitrary close to the threshold from either side are essentially identical, since their exact D-dimer levels will be due to randomness in the blood draw, lab test, and a number of other factors. Regression discontinuity design is therefore to fit the outcome (kidney function) to *two separate* regressions, on one each side of the D-dimer threshold: if there is a discontinuity at the threshold, then there is a causal effect.
 
-
-They couldn't just compare the kidney functions of those who received contrast and those who did not, since individuals who received contrast were clearly different from those who didn't. For example, their elevated D-dimer levels may have been due to poor general health, which would contribute to poorer kidney function independent of contrast. The key insight is to recognize that individuals arbitrary close to the threshold (from either side) are essentially identical, since their exact D-dimer levels will be due to randomness in the blood draw, lab test, and a number of other factors. To compare individuals on either side of the threshold, Goulden et al fit fit their outcome (kidney function) to *two separate* regressions, on one each side of the D-dimer threshold: if there was a discontinuity at the threshold, they would have identified a causal effect. 
+<img src="goulden_fig2a.png" width="500"/>
 
 
 
