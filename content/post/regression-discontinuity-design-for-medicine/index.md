@@ -13,21 +13,18 @@ One of my most memorable experiences in medical school was running down a hallwa
 The gold standard for causal inference in medicine is the randomized control trial. Randomized control trials sit atop the hierarchy of evidence, with observational studies forming the far less illustrious ranks beneath (see image below). For years, observational studies demonstrated an association between contrast and kidney injury. Because randomized control trials were considered either unfeasible or unethical (i.e., if my patient with kidney failure absolutely needs a CT w/ contrast, we will get them one and deal with the consequences later), these observational studies formed the basis of medical decision making. The landmark study by Goulden et al is an observational study that makes a *causal* claim, namely that there is no relationship between contrast and kidney injury. How could they possibly have shown this?
 
 ![](pasted-image-0.png)
+
 <img src="pasted-image-0.png" alt="drawing" width="200"/>
+
+Img above
 
 Regression discontinuity design
 
 A wonderful primer by Ioana Marinescu, Patrick Lawlor, and Konrad Kording<sup>3</sup>.
 
-
-
-
-
 Sekhri, Sheetal. "Prestige matters: Wage premium and value addition in elite colleges." American Economic Journal: Applied Economics 12.3 (2020): 207-25.
 
 ![](rdd_india.png)
-
-
 
 1. Mehran, Roxana, George D. Dangas, and Steven D. Weisbord. "Contrast-associated acute kidney injury." New England Journal of Medicine 380.22 (2019): 2146-2155.
 2. Goulden, Robert, et al. "Association of Intravenous Radiocontrast With Kidney Function: A Regression Discontinuity Analysis." JAMA Internal Medicine (2021).
