@@ -26,6 +26,10 @@ Sekhri, Sheetal. "Prestige matters: Wage premium and value addition in elite col
 
 ![](rdd_india.png)
 
+<img src="rdd_india.png" alt="drawing" width="1000"/>
+
+
+
 1. Mehran, Roxana, George D. Dangas, and Steven D. Weisbord. "Contrast-associated acute kidney injury." New England Journal of Medicine 380.22 (2019): 2146-2155.
 2. Goulden, Robert, et al. "Association of Intravenous Radiocontrast With Kidney Function: A Regression Discontinuity Analysis." JAMA Internal Medicine (2021).
 3. Marinescu, Ioana E., Patrick N. Lawlor, and Konrad P. Kording. "Quasi-experimental causality in neuroscience and behavioural research." Nature human behaviour 2.12 (2018): 891-898.
