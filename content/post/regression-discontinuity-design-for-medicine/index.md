@@ -20,8 +20,6 @@ A wonderful primer by Ioana Marinescu, Patrick Lawlor, and Konrad Kording<sup>3<
 
 Sekhri, Sheetal. "Prestige matters: Wage premium and value addition in elite colleges." American Economic Journal: Applied Economics 12.3 (2020): 207-25.
 
-![](rdd_india.png)
-
 <img src="rdd_india.png" alt="drawing" width="1000"/>
 
 
