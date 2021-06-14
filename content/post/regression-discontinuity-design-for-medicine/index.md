@@ -12,11 +12,7 @@ One of my most memorable experiences in medical school was running down a hallwa
 
 The gold standard for causal inference in medicine is the randomized control trial. Randomized control trials sit atop the hierarchy of evidence, with observational studies forming the far less illustrious ranks beneath (see image below). For years, observational studies demonstrated an association between contrast and kidney injury. Because randomized control trials were considered either unfeasible or unethical (i.e., if my patient with kidney failure absolutely needs a CT w/ contrast, we will get them one and deal with the consequences later), these observational studies formed the basis of medical decision making. The landmark study by Goulden et al is an observational study that makes a *causal* claim, namely that there is no relationship between contrast and kidney injury. How could they possibly have shown this?
 
-![](pasted-image-0.png)
-
-<img src="pasted-image-0.png" alt="drawing" width="350"/>
-
-Img above
+<img src="pasted-image-0.png" alt="drawing" width="400"/>
 
 Regression discontinuity design
 
