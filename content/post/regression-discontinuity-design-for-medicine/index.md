@@ -1,7 +1,7 @@
 ---
 title: Regression discontinuity design for medicine
 date: 2021-06-13T14:55:13.693Z
-draft: true
+draft: false
 featured: false
 image:
   filename: featured
@@ -14,7 +14,17 @@ The gold standard for causal inference in medicine is the randomized control tri
 
 <img src="pasted-image-0.png" alt="drawing" width="400"/>
 
-Regression discontinuity design is a 'quasi-experimental' technique - that is, it aims to establish causality without random assignment. As we will see below, the name is crystal clear. By identifying discontinuities in regressions, we can identify causal effects. I was first introduced to this and other quasi-experimental methods via a wonderful primer by Ioana Marinescu, Patrick Lawlor, and Konrad Kording<sup>3</sup>.
+Regression discontinuity design is a 'quasi-experimental' technique - that is, it aims to establish causality without random assignment. I was first introduced to this and other quasi-experimental methods via a wonderful primer by Ioana Marinescu, Patrick Lawlor, and Konrad Kording<sup>3</sup>. As we will see below, the name is crystal clear: by identifying discontinuities in regressions, we can identify causal effects. Regression discontinuity design can be used when a continuous variable is arbitrary thresholded for intervention. 
+
+To determine whether contrast exposure causes kidney injury, Goulden et al took advantage of a fortuitous protocol used in the Alberta hospital system. Patients with a D-dimer level above a cutoff, potentially indicative of a blood clot, were likely to receive a CT pulmonary angiogram (read, CT with contrast), a imaging study to more definitively diagnose blood clots in the vessels of the lungs<sup>4</sup>. The figure below shows this was indeed the case.
+
+<img src="Goulden_Fig1A.png" width="500"/>
+
+
+
+They couldn't just compare the kidney functions of those who received contrast and those who did not, since individuals who received contrast were clearly different from those who didn't. For example, their elevated D-dimer levels may have been due to poor general health, which would contribute to poorer kidney function independent of contrast. The key insight is to recognize that individuals arbitrary close to the threshold (from either side) are essentially identical, since their exact D-dimer levels will be due to randomness in the blood draw, lab test, and a number of other factors. To compare individuals on either side of the threshold, Goulden et al fit fit their outcome (kidney function) to *two separate* regressions, on one each side of the D-dimer threshold: if there was a discontinuity at the threshold, they would have identified a causal effect. 
+
+
 
 
 
@@ -32,6 +42,13 @@ https://youtu.be/fc1hkFC2c1E?t=731
 
 
 
+Creative
+
+Lansdell, Benjamin James, and Konrad Paul Kording. "Neural spiking for causal inference." bioRxiv (2019): 253351.
+
+
+
 1. Mehran, Roxana, George D. Dangas, and Steven D. Weisbord. "Contrast-associated acute kidney injury." New England Journal of Medicine 380.22 (2019): 2146-2155.
 2. Goulden, Robert, et al. "Association of Intravenous Radiocontrast With Kidney Function: A Regression Discontinuity Analysis." JAMA Internal Medicine (2021).
 3. Marinescu, Ioana E., Patrick N. Lawlor, and Konrad P. Kording. "Quasi-experimental causality in neuroscience and behavioural research." Nature human behaviour 2.12 (2018): 891-898.
+4. American College of Radiology Appropriateness Criteria. Suspected Pulmonary Embolism: Variant 2. <https://acsearch.acr.org/docs/69404/Narrative/>
