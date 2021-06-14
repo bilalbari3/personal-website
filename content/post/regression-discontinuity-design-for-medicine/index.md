@@ -36,7 +36,7 @@ Interestingly, going to an elite college does not confer a benefit in terms of c
 
 <img src="rdd_india_1.png" width="500"/>
 
-More importantly, attending an elite college *causes* a tremendous salary increase. A fascinating finding from what is purely an observational study. \[As an aside, those who did extremely well on their exams don't enjoy the same benefits (career choice? great school skills but poor real-life skills?)]
+More importantly, attending an elite college causes a *tremendous* salary increase. A fascinating finding from what is purely an observational study. \[As an aside, those who did extremely well on their exams don't enjoy the same benefits (career choice? great school skills but poor real-life skills?)]
 
 <img src="rdd_india_2.png" width="500"/>
 
