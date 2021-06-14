@@ -28,7 +28,15 @@ In order for regression discontinuity design to work, subjects and physicians sh
 
 Those of us in healthcare recognize that medicine is teeming with arbitrarily-chosen thresholds which serve as treatment boundaries. Regression discontinuity design is extremely well-suited for medicine, and ought to mark a new era of evidence-based medicine. It has been used to some extent in medicine, although, as Konrad Kording recently [Tweeted](https://twitter.com/KordingLab/status/1301136756159533056), "data ownership in medicine is \*ugly\*."
 
-Sekhri, Sheetal. "Prestige matters: Wage premium and value addition in elite colleges." American Economic Journal: Applied Economics 12.3 (2020): 207-25.
+Because regression discontinuity design is a general statistical technique, it has seen success in a wide variety of domains. One of my favorites determines the causal relationship between attending an elite university and postgraduate salaries<sup>5</sup>. In India, the Senior Secondary School Exam is a standardized test that determines what college students attend. With high scores, they are accepted into public colleges (prestigious) or private colleges (less prestigious). As with our medical example above, we can't just compare the two groups of students, as those with scores above the threshold are quite different from those below the threshold. First, we see that scoring above an arbitrary threshold does result in greater attendance of public colleges.
+
+<img src="sekhri_fig1.png" widt="500"/>
+
+
+
+
+
+
 
 <img src="rdd_india_1.png" width="500"/>
 
@@ -50,4 +58,10 @@ Lansdell, Benjamin James, and Konrad Paul Kording. "Neural spiking for causal in
 2. Goulden, Robert, et al. "Association of Intravenous Radiocontrast With Kidney Function: A Regression Discontinuity Analysis." JAMA Internal Medicine (2021).
 3. Marinescu, Ioana E., Patrick N. Lawlor, and Konrad P. Kording. "Quasi-experimental causality in neuroscience and behavioural research." Nature human behaviour 2.12 (2018): 891-898.
 4. American College of Radiology Appropriateness Criteria. Suspected Pulmonary Embolism: Variant 2. <https://acsearch.acr.org/docs/69404/Narrative/>
-5. Naidech, Andrew M., et al. "Probing the Effective Treatment Thresholds for Alteplase in Acute Ischemic Stroke With Regression Discontinuity Designs." Frontiers in neurology 11 (2020): 961.
+5. Sekhri, Sheetal. "Prestige matters: Wage premium and value addition in elite colleges." American Economic Journal: Applied Economics 12.3 (2020): 207-25.
+
+
+
+
+
+![]()
