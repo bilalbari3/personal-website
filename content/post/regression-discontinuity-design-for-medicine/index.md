@@ -52,6 +52,8 @@ As with any technique, the conclusions are only as good as the assumptions. [Thi
 
 
 
+Published References
+
 1. Mehran, Roxana, George D. Dangas, and Steven D. Weisbord. "Contrast-associated acute kidney injury." New England Journal of Medicine 380.22 (2019): 2146-2155.
 2. Goulden, Robert, et al. "Association of Intravenous Radiocontrast With Kidney Function: A Regression Discontinuity Analysis." JAMA Internal Medicine (2021).
 3. Marinescu, Ioana E., Patrick N. Lawlor, and Konrad P. Kording. "Quasi-experimental causality in neuroscience and behavioural research." Nature human behaviour 2.12 (2018): 891-898.
@@ -59,3 +61,9 @@ As with any technique, the conclusions are only as good as the assumptions. [Thi
 5. Sekhri, Sheetal. "Prestige matters: Wage premium and value addition in elite colleges." American Economic Journal: Applied Economics 12.3 (2020): 207-25.
 6. Marinescu, Ioana Elena, Sofia Triantafillou, and Konrad Kording. "Regression discontinuity threshold optimization." Available at SSRN 3333334 (2019).
 7. Lansdell, Benjamin James, and Konrad Paul Kording. "Neural spiking for causal inference." bioRxiv (2019): 253351.
+
+Links
+
+* https://twitter.com/kidney_boy/status/1199828796322598912
+* https://twitter.com/KordingLab/status/1301136756159533056
+* https://www.youtube.com/watch?v=fc1hkFC2c1E&t=731s
