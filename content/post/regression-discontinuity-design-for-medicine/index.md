@@ -48,9 +48,11 @@ Even more fascinating is the implication. This threshold can be optimized, since
 
 There are even more creative applications of RDD. A recent study argued that individual neurons might employ a form of this technique to estimate their causal effect on behavior<sup>7</sup>. It remains to be seen whether the predictions of this theory are true, but it is wonderful to see such unbridled creativity directed at solving important problems.
 
-As with any technique, the conclusions are only as good as the assumptions. [This talk](https://youtu.be/fc1hkFC2c1E?t=731) from Andrew Gelman provides a humorous, if horrifying example of when RDD goes wrong. I recommend watching the video and listening to his reasoning, highlighting the importance of domain-specific expertise (and sometimes a bit of common sense).
+As with any technique, the conclusions are only as good as the assumptions. [This talk](https://youtu.be/fc1hkFC2c1E?t=731) from Andrew Gelman provides a humorous, if horrifying example of when RDD goes wrong. I recommend watching the video and listening to his reasoning, highlighting the importance of domain-specific expertise (and a bit of common sense).
 
 <img src="chenEtAl_fig3.png" width="500"/>
+
+
 
 
 
