@@ -22,7 +22,7 @@ To determine whether contrast exposure causes kidney injury, Goulden et al took 
 
 <img src="Goulden_Fig1A.png" width="500"/>
 
-However, they couldn't just compare the kidney functions of those who received contrast and those who did not, since individuals who received contrast were clearly different from those who didn't. For example, their elevated D-dimer levels may have been due to poor general health, which would contribute to poorer kidney function independent of contrast. The key insight is to recognize that individuals arbitrarily close to the threshold from either side are essentially identical, since their exact D-dimer levels will be due to randomness in the blood draw, lab test, and a number of other factors. The technique is therefore to fit the outcome (kidney function) to *two separate* regressions, on one each side of the D-dimer threshold: if there is a discontinuity at the threshold, then there is a causal effect. Goulden and colleagues carried out this exact analysis and, in what should be a fatal blow to contrast-associated nephropathy, failed to find any such discontinuity (or, in the baroque and overburdened language of frequentism, they failed to reject the null - I'm sure I'll write a blog post laying bare my consternations of frequentism at some point). Long-term eGFR below is a measure of kidney function. 
+However, they couldn't just compare the kidney functions of those who received contrast and those who did not, since individuals who received contrast were clearly different from those who didn't. For example, their elevated D-dimer levels may have been due to poor general health, which would contribute to poorer kidney function independent of contrast. The key insight is to recognize that individuals arbitrarily close to the threshold from either side are essentially identical, since their exact D-dimer levels will be due to randomness in the blood draw, lab test, and a number of other factors. The technique is therefore to fit the outcome (kidney function) to *two separate* regressions, one on each side of the D-dimer threshold: if there is a discontinuity at the threshold, then there is a causal effect. Goulden and colleagues carried out this exact analysis and, in what should be a fatal blow to contrast-associated nephropathy, failed to find any such discontinuity (or, in the baroque and overburdened language of frequentism, they failed to reject the null - I'm sure I'll write a blog post laying bare my consternations of frequentism at some point). Long-term eGFR below is a measure of kidney function. 
 
 <img src="goulden_fig2a.png" width="500"/>
 
@@ -46,17 +46,13 @@ Another intriguing example studies taxicab economics: how does the manner of tip
 
 <img src="marinescu_fig3.png" width="500"/>
 
-Even more compelling is the implication. This threshold can be optimized, since observing a causal effect in this example means money lost for the company. At the optimal threshold (c*), there is no money lost on tips. This brings up a *very* important point - all claims of causality must be interpreted in light of the chosen threshold, which requires bringing domain knowledge to the problem. As a thought experiment, imagine in the study above, the threshold was serendipitously chosen to be ~$11. We would have observed no causal effect, though one could reasonably have argued that an $11 threshold was hiding a true causal effect. In our medical example above, while it is certainly possible that Goulden et al observed no causal effect due to the chosen threshold, unlike the taxi example, it is extremely difficult to come up with a biologically-plausible explanation why that would be the case.
+Even more compelling is the implication. This threshold can be optimized, since observing a causal effect in this example means money lost for the company. At the optimal threshold (c*),* there is no money lost on tips. This brings up a *very* important point - all claims of causality must be interpreted in light of the chosen threshold, which requires bringing domain knowledge to the problem. As a thought experiment, imagine in the study above, the threshold was serendipitously chosen to be ~$11. We would have observed no causal effect, though one could reasonably have argued that an $11 threshold was hiding a true causal effect. In our medical example above, while it is certainly possible that Goulden et al observed no causal effect due to the chosen threshold, unlike the taxi example, it is extremely difficult to come up with a biologically-plausible explanation why that would be the case.
 
 There are even more creative applications of RDD. A recent study argued that individual neurons might employ a form of this technique to estimate their causal effect on behavior<sup>7</sup>. It remains to be seen whether the predictions of this theory are true, but it is wonderful to see such unbridled creativity directed at solving important problems.
 
 As with any technique, the conclusions are only as good as the assumptions. [This talk](https://youtu.be/fc1hkFC2c1E?t=731) from Andrew Gelman provides a humorous but horrifying example of when RDD goes wrong. I recommend watching the video and listening to his reasoning, highlighting the importance of domain-specific expertise (and a bit of common sense).
 
 <img src="chenEtAl_fig3.png" width="500"/>
-
-
-
-
 
 Published References
 
