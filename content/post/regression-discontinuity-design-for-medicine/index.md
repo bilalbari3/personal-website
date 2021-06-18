@@ -16,7 +16,7 @@ The gold standard for causal inference in medicine is the randomized control tri
 
 <img src="pasted-image-0.png" alt="drawing" width="400"/>
 
-RDD is a 'quasi-experimental' technique - that is, it aims to establish causality without random assignment. I was first introduced to this and other quasi-experimental methods via a wonderful primer by Ioana Marinescu, Patrick Lawlor, and Konrad Kording<sup>3</sup>. As we will see below, the name is crystal clear: by identifying discontinuities in regressions, we can identify causal effects. RDD can be used when a continuous variable is arbitrary thresholded for intervention. 
+RDD is a 'quasi-experimental' technique - that is, it aims to establish causality without random assignment. I was first introduced to this and other quasi-experimental methods via a wonderful primer by Ioana Marinescu, Patrick Lawlor, and Konrad Kording<sup>3</sup>. As we will see below, the name is crystal clear: by identifying discontinuities in regressions, we can identify causal effects. RDD can be used when a continuous variable is arbitrarily thresholded for intervention. 
 
 To determine whether contrast exposure causes kidney injury, Goulden et al took advantage of a fortuitous protocol used in the Alberta hospital system. Patients with a D-dimer level above a cutoff, potentially indicative of a blood clot, were likely to receive a CT pulmonary angiogram (read, CT with contrast), a imaging study to more definitively diagnose blood clots in the vessels of the lungs<sup>4</sup>. The figure below shows this protocol was carried out appropriately (CTPA: computed tomography pulmonary angiogram).
 
