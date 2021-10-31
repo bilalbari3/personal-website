@@ -1,17 +1,17 @@
 ---
-title: Punishment history biases corticothalamic responses to
-  motivationally-significant stimuli
+title: Aversive stimuli bias corticothalamic responses to
+  motivationally-significant cues
 subtitle: ""
 publication_types:
-  - "3"
+  - "2"
 authors:
   - Federica Lucantonio
   - Zhixiao Su
   - Anna J Chang
   - Bilal A Bari
   - Jeremiah Y Cohen
-doi: 10.1101/2020.04.06.027888
-publication: bioRxiv
+doi: ""
+publication: eLife
 abstract: Making predictions about future rewards or punishments is fundamental
   to adaptive behavior. These processes are influenced by prior experience. For
   example, prior exposure to aversive stimuli or stressors changes behavioral
@@ -33,5 +33,5 @@ image:
   filename: ""
   focal_point: ""
   preview_only: false
-date: 2020-01-01T23:52:00.000Z
+date: 2021-10-11T22:46:00.000Z
 ---
