@@ -2,7 +2,7 @@
 title: Reinforcement learning modeling reveals a reward-history-dependent
   strategy underlying reversal learning in squirrel monkeys
 publication_types:
-  - "3"
+  - "2"
 authors:
   - Bilal A Bari
   - Megan J Moerke
@@ -10,8 +10,8 @@ authors:
   - Devin P Effinger
   - Jeremiah Y Cohen
   - Charles W Bradberry
-doi: 10.1101/2021.05.05.442852
-publication: bioRxiv
+doi: 10.1037/bne0000492
+publication: Behavioral Neuroscience
 abstract: "Insight into psychiatric disease and development of therapeutics
   relies on behavioral tasks that study similar cognitive constructs in multiple
   species. The reversal learning task is one popular paradigm that probes
