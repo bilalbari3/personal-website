@@ -10,6 +10,7 @@ authors:
   - Anna J Chang
   - Bilal A Bari
   - Jeremiah Y Cohen
+doi: https://doi.org/10.7554/eLife.57634
 publication: eLife
 draft: false
 featured: false
