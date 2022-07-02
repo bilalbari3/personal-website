@@ -15,6 +15,8 @@ authors:
   - David J Nutt
   - Robin Carhart-Harris
 doi: 10.31234/osf.io/sb5ur
+publication: PsyArXiv
+abstract: ""
 draft: false
 featured: false
 image:
