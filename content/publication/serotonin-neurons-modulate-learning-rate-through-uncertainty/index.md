@@ -11,8 +11,8 @@ publication: Current Biology
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
-date: 2021-12-21T16:36:00.000Z
+date: 2022-02-07T13:00:00.000Z
 ---
