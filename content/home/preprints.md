@@ -3,7 +3,7 @@ widget: pages
 widget_id: Publications
 headless: true
 weight: 50
-title: Preprints
+title: Preprints and Working Papers
 subtitle: ""
 content:
   page_type: publication
