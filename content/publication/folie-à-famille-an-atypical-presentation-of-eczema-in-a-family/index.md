@@ -6,6 +6,7 @@ authors:
   - Fernando Espi Forcen
   - Bilal A Bari
   - Kwadwo Owusu-Boaitey
+doi: 10.1016/j.jaclp.2022.07.009
 publication: Journal of the Academy of Consultation-Liaison Psychiatry (In Press)
 draft: false
 featured: false
