@@ -5,8 +5,8 @@ publication_types:
 authors:
   - Bilal A Bari
   - Samuel J Gershman
-doi: 10.1101/2022.05.25.493472
-publication: Journal of Neuroscience (In Press)
+doi: 10.1523/JNEUROSCI.1003-22.2022
+publication: Journal of Neuroscience
 abstract: ""
 draft: false
 featured: false
@@ -14,5 +14,5 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2022-11-17T13:00:11.023Z
+date: 2023-01-18T20:09:18.048Z
 ---
