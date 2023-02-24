@@ -14,12 +14,12 @@ authors:
   - Alicia Izquierdo
   - Alireza Soltani
 doi: 10.1101/2022.10.01.510477
-publication: Cognitive, Affective, and Behavioral Neuroscience (in press)
+publication: Cognitive, Affective, and Behavioral Neuroscience
 draft: false
 featured: false
 image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2023-01-14T08:30:07.467Z
+date: 2023-02-23T13:00:07.467Z
 ---
