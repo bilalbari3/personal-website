@@ -13,7 +13,7 @@ authors:
   - Wolfram Schultz
   - Alicia Izquierdo
   - Alireza Soltani
-doi: 10.1101/2022.10.01.510477
+doi: 10.3758/s13415-022-01059-z
 publication: Cognitive, Affective, and Behavioral Neuroscience
 draft: false
 featured: false
