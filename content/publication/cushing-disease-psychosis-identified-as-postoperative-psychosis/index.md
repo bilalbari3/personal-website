@@ -7,6 +7,7 @@ authors:
   - Paavani Reddy
   - Bryce A Wininger
 doi: 10.1016/j.jaclp.2024.01.008
+publication: Journal of the Academy of Consultation-Liaison Psychiatry
 draft: false
 featured: false
 image:
