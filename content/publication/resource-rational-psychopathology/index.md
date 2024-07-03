@@ -5,6 +5,7 @@ publication_types:
 authors:
   - Bilal A Bari
   - Samuel J Gershman
+doi: 10.1037/bne0000600
 publication: Behavioral Neuroscience (Accepted)
 draft: false
 featured: false
