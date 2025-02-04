@@ -4,10 +4,11 @@ title: Optimal use of limited cognitive resources produces bias and noise in
 publication_types:
   - "3"
 authors:
-  - Bari BA
-  - He S
-  - McCoy TH
-  - Gershman SJ
+  - Bilal A Bari
+  - Shuhan He
+  - Thomas H McCoy
+  - Samuel J Gershman
+publication: (submitted)
 draft: false
 featured: false
 image:
