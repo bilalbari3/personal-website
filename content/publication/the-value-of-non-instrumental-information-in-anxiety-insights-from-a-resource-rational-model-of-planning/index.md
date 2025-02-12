@@ -6,8 +6,8 @@ publication_types:
 authors:
   - Bilal A Bari
   - Samuel J Gershman
-doi: ""
-publication: Computational Psychiatry (in press)
+doi: 10.5334/cpsy.124
+publication: Computational Psychiatry
 draft: false
 featured: false
 image:
