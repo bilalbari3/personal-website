@@ -8,8 +8,8 @@ authors:
   - Lucy Lai
   - Samuel J Gershman
   - Bilal A Bari
-doi: 10.31234/osf.io/fupvy
-publication: "Journal of Experimental Psychology: General (in press)"
+doi: 10.1037/xge0001760
+publication: "Journal of Experimental Psychology: General"
 draft: false
 featured: false
 image:
