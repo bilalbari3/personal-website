@@ -4,7 +4,9 @@ role: Psychiatrist
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Computational Psychiatry; Decision Making;Cognitive Resource Limitations
+  - Computational Psychiatry
+  - Decision Making
+  - Cognitive Resource Limitations
 social:
   - icon: twitter
     icon_pack: fab
