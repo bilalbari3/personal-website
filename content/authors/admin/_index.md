@@ -3,7 +3,8 @@ title: Bilal Bari, MD, PhD
 role: Psychiatrist
 avatar_filename: avatar.jpg
 bio: ""
-interests: []
+interests:
+  - Computational Psychiatry; Decision Making;Cognitive Resource Limitations
 social:
   - icon: twitter
     icon_pack: fab
