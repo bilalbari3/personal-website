@@ -1,5 +1,5 @@
 ---
-title: Quantifying the cost of context sensitivity in decision,making
+title: Quantifying the cost of context sensitivity in decisionmaking
 publication_types:
   - "3"
 authors:
