@@ -6,6 +6,7 @@ authors:
   - Shuze Liu
   - Samuel J Gershman
   - Bilal A Bari
+publication: (submitted)
 draft: false
 featured: false
 image:
