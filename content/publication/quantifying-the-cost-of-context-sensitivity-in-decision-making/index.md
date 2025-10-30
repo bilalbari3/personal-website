@@ -6,6 +6,7 @@ authors:
   - Shuze Liu
   - Samuel J Gershman
   - Bilal A Bari
+doi: 10.1111/tops.70030
 publication: Topics in Cognitive Science
 draft: false
 featured: false
