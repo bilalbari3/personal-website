@@ -8,7 +8,8 @@ authors:
   - Shuhan He
   - Thomas H McCoy
   - Samuel J Gershman
-publication: (submitted)
+doi: 10.31234/osf.io/tmyrx_v1
+publication: PxyArXiv
 draft: false
 featured: false
 image:
