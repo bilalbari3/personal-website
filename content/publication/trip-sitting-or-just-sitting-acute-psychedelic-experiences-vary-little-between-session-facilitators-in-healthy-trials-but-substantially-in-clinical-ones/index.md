@@ -14,6 +14,7 @@ authors:
   - Frederick S Barrett
   - David B Yaden
   - Sandeep M Nayak
+doi: 10.1016/j.psychres.2026.117010
 publication: Psychiatry Research
 draft: false
 featured: false
