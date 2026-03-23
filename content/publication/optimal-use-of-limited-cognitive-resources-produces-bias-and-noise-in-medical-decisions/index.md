@@ -9,12 +9,12 @@ authors:
   - Thomas H McCoy
   - Samuel J Gershman
 doi: 10.31234/osf.io/tmyrx_v1
-publication: PxyArXiv
+publication: PsyArXiv
 draft: false
 featured: false
 image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2026-02-01T15:52:52.633Z
+date: 2025-02-04T15:52:52.633Z
 ---
