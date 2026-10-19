@@ -1,0 +1,54 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    color-scheme: light;
+  }
+  body {
+    @apply bg-canvas font-sans text-base text-ink antialiased;
+  }
+  a {
+    @apply text-brand-700 underline-offset-2;
+  }
+  :focus-visible {
+    outline: 3px solid #226f67;
+    outline-offset: 2px;
+    border-radius: 6px;
+  }
+  input[type='number'] {
+    -moz-appearance: textfield;
+  }
+}
+
+/* Paint the band above the sticky header when the page runs under a phone's status bar. */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0 0 auto;
+  height: env(safe-area-inset-top, 0px);
+  z-index: 40;
+  background: #1f2933;
+}
+
+/* Recharts: keep focus outlines tidy inside SVG */
+.recharts-surface:focus {
+  outline: none;
+}
+
+@media print {
+  @page {
+    size: letter;
+    margin: 0.45in;
+  }
+  html,
+  body {
+    background: white !important;
+    font-size: 11px;
+  }
+  .no-print {
+    display: none !important;
+  }
+}
