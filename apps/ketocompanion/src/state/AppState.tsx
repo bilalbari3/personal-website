@@ -1,6 +1,6 @@
 import { createContext, useCallback, useContext, useEffect, useMemo, useState, type ReactNode } from 'react';
 import type { AppState, CustomMeal, KetoneReading, MealLog, Note, Settings } from '../types';
-import { loadState, saveState } from '../lib/storage';
+import { isStaleDemo, loadState, saveState } from '../lib/storage';
 import { buildSeedState } from '../data/seed';
 import { todayISO } from '../lib/dates';
 
@@ -28,10 +28,15 @@ interface Store {
 const Ctx = createContext<Store | null>(null);
 
 export function AppStateProvider({ children }: { children: ReactNode }) {
-  const [state, setState] = useState<AppState>(loadState);
   const [today, setToday] = useState(todayISO);
+  const [state, setState] = useState<AppState>(() => loadState(today));
 
   useEffect(() => saveState(state), [state]);
+
+  // If the app is left open past midnight, rebuild the demo story for the new day.
+  useEffect(() => {
+    setState((s) => (isStaleDemo(s, today) ? buildSeedState(today) : s));
+  }, [today]);
 
   // Keep "today" correct if the app is left open past midnight.
   useEffect(() => {
@@ -64,7 +69,7 @@ export function AppStateProvider({ children }: { children: ReactNode }) {
       deleteCustomMeal: (id) => update((s) => ({ ...s, customMeals: s.customMeals.filter((c) => c.id !== id) })),
       updateSettings: (patch) => update((s) => ({ ...s, settings: { ...s.settings, ...patch } })),
       dismissHydration: () => update((s) => ({ ...s, hydrationDismissedOn: todayISO() })),
-      resetDemo: () => setState(buildSeedState()),
+      resetDemo: () => setState(buildSeedState(today)),
       clearAll: () =>
         update((s) => ({
           version: 1,

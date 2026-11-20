@@ -136,4 +136,9 @@ export interface AppState {
   customMeals: CustomMeal[];
   /** Date the hydration reminder was last dismissed (it returns the next day). */
   hydrationDismissedOn?: ISODate;
+  /**
+   * Set only on seeded demo data: the day the demo story was generated for. On any other day the
+   * story is regenerated so its dates stay relative to today. A blank log never has this.
+   */
+  demoAnchor?: ISODate;
 }

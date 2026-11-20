@@ -262,6 +262,12 @@ export function SettingsScreen() {
         <p className="text-ink-soft">
           Everything you enter stays in this browser on this device. Nothing is sent to a server, and there are no accounts or tracking.
         </p>
+        {store.state.demoAnchor && (
+          <p className="mt-2 text-ink-soft">
+            The demo story is rebuilt each day so its dates always lead up to today. Anything you add to it lasts until the end of the
+            day. To keep your own entries, choose Start with a blank log.
+          </p>
+        )}
         <div className="mt-4 grid gap-3 sm:grid-cols-2">
           <Button variant="secondary" onClick={() => setConfirm('reset')}>
             Reset demo data
@@ -313,7 +319,7 @@ export function SettingsScreen() {
         <p className="text-ink-soft">
           {confirm === 'reset'
             ? "This replaces everything with the original fictional patient (Alex) and resets all settings. Anything you've entered will be removed."
-            : 'This removes all meals, readings, notes and saved meals but keeps your settings. The plan start date becomes today.'}
+            : 'This removes all meals, readings, notes and saved meals but keeps your settings. The plan start date becomes today, and your entries are kept from day to day.'}
         </p>
       </Dialog>
     </div>

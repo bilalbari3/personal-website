@@ -238,6 +238,7 @@ export function buildSeedState(today = todayISO()): AppState {
 
   return {
     version: 1,
+    demoAnchor: today,
     settings,
     meals,
     readings,

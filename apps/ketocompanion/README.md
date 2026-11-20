@@ -90,7 +90,7 @@ All state is one `AppState` object (`src/types.ts`) under the localStorage key `
 
 ## Seeded story: "Alex", about 3 weeks in
 
-The seed is anchored to today's date, so the demo always looks current. The higher-carb days always land on a weekend.
+The seed is anchored to today's date, so the demo always looks current. The higher-carb days always land on a weekend. The seeded data records the day it was built for (`demoAnchor`). When the app is opened on a later day, or left open past midnight, the story is rebuilt for that day, so a returning visitor never sees a story that ended weeks ago. Entries added during a demo last until the end of that day. A log started with **Settings → Start with a blank log** has no anchor and is kept from day to day.
 
 | Plan days | What happens |
 |---|---|
